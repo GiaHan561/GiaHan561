@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🏆 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/cuvong69?theme=dark&font=Baloo&ext=contest)
