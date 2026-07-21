@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Ton Nu Gia Han
+Information Technology student
+Post and Telecommunication Institue of Technology
 
 <!--
 **GiaHan561/GiaHan561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
