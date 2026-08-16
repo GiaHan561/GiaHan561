@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ton Nu Gia Han
-Information Technology student
-Post and Telecommunication Institue of Technology
+- Information Technology student
+- Post and Telecommunication Institue of Technology
 
 👨‍💻 IT Student @ PTIT
 🤖 Exploring AI & Machine Learning
