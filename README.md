@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ## 🏆 LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/cuvong69?theme=dark&font=Baloo&ext=contest)
-[![GitHub Streak Stats](https://streak-stats.demolab.com/?user=GiaHan561&theme=tokyonight)](https://git.io/streak-stats)
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
+[![GitHub Streak Stats](https://streak-stats.demolab.com/?user=GiaHan561&theme=radical)](https://git.io/streak-stats)
+
+
